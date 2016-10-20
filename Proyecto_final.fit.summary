@@ -1,0 +1,16 @@
+Fitter Status : Successful - Thu Oct 20 11:17:52 2016
+Quartus Prime Version : 15.1.0 Build 185 10/21/2015 SJ Lite Edition
+Revision Name : Proyecto_final
+Top-level Entity Name : Proyecto_final
+Family : Cyclone IV E
+Device : EP4CE22F17C6
+Timing Models : Final
+Total logic elements : 3,932 / 22,320 ( 18 % )
+    Total combinational functions : 3,114 / 22,320 ( 14 % )
+    Dedicated logic registers : 2,774 / 22,320 ( 12 % )
+Total registers : 2843
+Total pins : 130 / 154 ( 84 % )
+Total virtual pins : 0
+Total memory bits : 19,456 / 608,256 ( 3 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )

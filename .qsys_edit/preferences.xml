@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+ <debug showDebugMenu="0" />
+ <systemtable filter="sys_pll.c0" showClockDomains="1" showResetDomains="0">
+  <columns>
+   <connections preferredWidth="239" />
+   <irq preferredWidth="34" />
+   <name preferredWidth="254" />
+  </columns>
+ </systemtable>
+ <library
+   expandedCategories="Project,Library/Processors and Peripherals,Library/Processors and Peripherals/Peripherals,Library" />
+ <window width="1301" height="744" x="65" y="24" />
+ <hdlexample language="VERILOG" />
+ <generation greybox="1" />
+</preferences>
